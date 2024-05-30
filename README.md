@@ -9,3 +9,4 @@ Moreover, it has been prepared a generic Container class for storing objects of 
 For all created classes a few operators have been overloaded. Each class has also implemented persistance methods for storing and reconstructing the state of the entire object.
 
 The app contains console interfaces for testing functionalities of each class.
+![Demo image](./main-demo.png)
